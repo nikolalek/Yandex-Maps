@@ -1,4 +1,4 @@
-# Search Yandex Maps
+# Yandex Maps
 PopClip Extension - Search Yandex Maps
 
 ![images](./img/images_01.png "panel")
