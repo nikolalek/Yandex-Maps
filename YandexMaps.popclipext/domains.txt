@@ -1,2 +1,2 @@
-http://www.yandex.com
-http://www.yandex.ru
+https://www.yandex.com
+https://www.yandex.ru
